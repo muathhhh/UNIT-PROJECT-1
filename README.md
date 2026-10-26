@@ -194,6 +194,7 @@ Run the command from the project root while the virtual environment is active.
 - Metro fares and durations are estimates.
 - Metro route planning supports a single line and does not currently handle transfers.
 - Recommendations depend on the available route data and estimation rules.
+- **Metro data availability:** Metro information may be unavailable for some neighborhoods because no metro station is listed for the selected location in the available dataset, or the route is not currently supported. This does not necessarily indicate a software error.
 
 ## Future Improvements
 
